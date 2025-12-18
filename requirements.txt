@@ -1,0 +1,8 @@
+sentence-transformers
+chromadb
+tqdm
+pandas
+numpy
+datasets
+python-dotenv
+google-genai
