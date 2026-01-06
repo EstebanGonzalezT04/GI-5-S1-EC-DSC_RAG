@@ -73,7 +73,7 @@ Each entry in the dataset includes two key fields:
 The use of LLMs is required for the generation step of your RAG system. Serveral options are available to you:
 
 
-### 4.1. Provided API for LLM Access
+### 4.1. Provided API for LLM Access (currently not working)
 
 You will be provided with API endpoints for sending queries to LLMs hosted on LM Studio instances on server machines managed by the DSI of INSA Lyon.
 
